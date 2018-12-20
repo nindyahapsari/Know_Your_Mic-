@@ -2,6 +2,13 @@
 
 A simple reminder app about microphone technique before heading for a recording session.
 
+![alt tag](https://github.com/nindyahapsari/Know_Your_Mic-/blob/master/micro_app_pict.png)
+
+
+# Language
+
+German
+
 # Type Of Application
 
 Android
